@@ -11,13 +11,14 @@ import java.util.*;
 public class portfolio
 {
 
-	
+	@SuppressWarnings(
+	{ "resource", "unused" })
 	public static void main(String[] args)
 	{
-	
-		
-		String filename =args[0];
-		
+		Scanner scanner = new Scanner(System.in);
+		System.out.print("Enter a file name: ");
+		String filename = scanner.nextLine();
+		File file = new File(filename);
 
 //		System.out.println("File path : " + filename);
 		BufferedReader reader;
