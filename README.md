@@ -22,7 +22,7 @@ Running Test
 	Compile this Program in eclipse or using command prompt as javac portfolio.java
 	Run this program
 	
-Outut we will get	
+Output we will get	
 	Enter a file name: C:\Users\Balakrishnan\Desktop\portfolio.txt
 GOOG - 200, MS - 80
 GOOG - 100, AMZN - 90, MS - 80
