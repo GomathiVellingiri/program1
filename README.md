@@ -1,5 +1,5 @@
 # program1
-Description:
+# Description
 
 
 Assume a text file with a sample content as follows
@@ -10,20 +10,20 @@ Assume a text file with a sample content as follows
 	
 Portfolio is a program (in Java) that takes a text file name(with file path) as a command line argument and prints them in the descending order of their overall value, where the overall value of each line is the price of all stocks in a given line.
 
-Prerequisites
+# Prerequisites
 	
-	Java 8,
+	Java 8
 	Eclipse
-Author
+# Author
 
 	Gomathi Vellingiri
 	
-Running Test
+# Running Test
 
 	Compile this Program in eclipse or using command prompt as javac portfolio.java
 	Run this program
 	
-Output we will get
+# Output we will get
 
 	Enter a file name: //your filepath
 	GOOG - 200, MS - 80
