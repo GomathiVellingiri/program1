@@ -16,7 +16,7 @@ public class portfolio
 	public static void main(String[] args)
 	{
 		Scanner scanner = new Scanner(System.in);
-		System.out.print("Enter a file name: ");
+		System.out.print("Enter your file path: ");
 		String filename = scanner.nextLine();
 		File file = new File(filename);
 

@@ -23,7 +23,7 @@ Running Test
 	Run this program
 	
 Outut we will get	
-	Enter a file name: C:\Users\Balakrishnan\Desktop\portfolio.txt
+	Enter a file name: filepath
 GOOG - 200, MS - 80
 GOOG - 100, AMZN - 90, MS - 80
 SGI - 100, GOOG - 50, MS - 10
